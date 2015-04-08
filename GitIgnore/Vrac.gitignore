@@ -1,0 +1,13 @@
+##### Vrac
+Thumbs.db
+*~
+*.Ink
+
+
+
+# PIC
+*.cof
+*.mcw
+*.hex
+build/
+dist/
