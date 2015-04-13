@@ -3,15 +3,15 @@
 	url = https://github.com/robotronik/archives
 	branch = master
 [submodule "asservissement"]
-	path = asservissement
+	path = Informatique/asservissement
 	url = https://github.com/robotronik/asservissement
 	branch = master
 [submodule "cartographie"]
-	path = cartographie
+	path = Informatique/cartographie
 	url = https://github.com/robotronik/cartographie
 	branch = master
 [submodule "common_code"]
-	path = common_code
+	path = Informatique/common_code
 	url = https://github.com/robotronik/common_code
 	branch = master
 [submodule "communication"]
@@ -31,14 +31,14 @@
 	url = https://github.com/robotronik/projetdegroupe
 	branch = master
 [submodule "strategie"]
-	path = strategie
+	path = Informatique/strategie
 	url = https://github.com/robotronik/strategie
 	branch = master
 [submodule "uart"]
-	path = uart
+	path = Informatique/uart
 	url = https://github.com/robotronik/uart
 	branch = master
 [submodule "stm32f407"]
-	path = stm32f407
+	path = Informatique/stm32f407
 	url = https://github.com/robotronik/stm32f407
 	branch = master
