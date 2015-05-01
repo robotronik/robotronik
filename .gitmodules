@@ -34,10 +34,6 @@
 	path = Informatique/strategie
 	url = https://github.com/robotronik/strategie
 	branch = master
-[submodule "uart"]
-	path = Informatique/uart
-	url = https://github.com/robotronik/uart
-	branch = master
 [submodule "stm32f407"]
 	path = Informatique/stm32f407
 	url = https://github.com/robotronik/stm32f407
