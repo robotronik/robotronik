@@ -38,3 +38,6 @@
 	path = Informatique/stm32f407
 	url = https://github.com/robotronik/stm32f407
 	branch = master
+[submodule "Informatique/hardware"]
+	path = Informatique/hardware
+	url = https://github.com/robotronik/hardware
