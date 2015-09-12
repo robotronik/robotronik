@@ -41,6 +41,8 @@
 [submodule "Informatique/hardware"]
 	path = Informatique/hardware
 	url = https://github.com/robotronik/hardware
+	branch = master
 [submodule "Informatique/simulation"]
 	path = Informatique/simulation
 	url = https://github.com/robotronik/simulation
+	branch = master
