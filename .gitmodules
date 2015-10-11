@@ -46,3 +46,6 @@
 	path = Informatique/simulation
 	url = https://github.com/robotronik/simulation
 	branch = master
+[submodule "Informatique/olinpiades"]
+	path = Informatique/olinpiades
+	url = https://github.com/robotronik/olinpiades
